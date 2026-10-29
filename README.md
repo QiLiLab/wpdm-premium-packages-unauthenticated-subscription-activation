@@ -28,8 +28,8 @@ The SQL comparison appears in [Observed impact](#observed-impact). As controls, 
 ## Vendor and affected version
 
 - Vendor: Vedidero (WPDM / WPDM Premium Packages)
-- Vendor's stated country/region: Germany
-- Vendor repository: https://github.com/wp-premium-packages/wpdm-premium-packages
+- Vendor's stated country/region: Inida
+- Vendor repository: [https://github.com/wp-premium-packages/wpdm-premium-packages](https://wordpress.org/plugins/wpdm-premium-packages/)
 - Known affected version: WPDM Premium Packages 7.3.0
 - Source version evidence: `wpdm-premium-packages.php:6` contains `* Version: 7.3.0`
 - Release metadata evidence: `readme.txt:7` contains `Stable tag: 7.3.0`
