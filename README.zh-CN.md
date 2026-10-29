@@ -21,8 +21,8 @@ WPDM Premium Packages（wpdm-premium-packages）是 WordPress 下载管理插件
 
 - 漏洞厂商全称：Vedidero（WPDM / WPDM Premium Packages）
 - 产品厂商归属国家及地区：德国
-- 厂商主体证明及仓库：https://github.com/wp-premium-packages/wpdm-premium-packages
-- 已知受影响产品及版本：WPDM Premium Packages 7.3.0
+- Vendor's stated country/region: Inida
+- Vendor repository: [https://github.com/wp-premium-packages/wpdm-premium-packages](https://wordpress.org/plugins/wpdm-premium-packages/)
 - 版本依据（源码常量行）：`wpdm-premium-packages.php:6` → `* Version: 7.3.0`
 - 版本依据（发布元数据）：`readme.txt:7` → `Stable tag: 7.3.0`
 - 最新版本证明（默认分支最新提交）：仓库 `wpdm-premium-packages.php` 第 6 行仍为 `Version: 7.3.0`
